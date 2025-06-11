@@ -1,27 +1,37 @@
 <img src="preview/git.png">
 
-### Wallpapers
+<style scoped>
+table 
+{
+font-family: JetBrains Mono, sans-serif;
+font-weight: 400;
+# font-variant: small-caps;
+font-size: 14px;
+}
+</style>
 
-- min size 1920x1080 px
-- max size 3840x2160 px
+#### wallpapers
 
-```
-The rights to the wallpapers do not belong to me, but only to their creators.
-``` 
-### Config Dots
+| min size | max size |
+| - | - |
+| 1920x1080px | 3840x2160px |
 
-- btop
-- cava
-- dunst
-- fastfetch
-- fish
-- foot
-- kitty
-- mpd
-- mpv
-- mpv
-- ncmpcpp
-- picom
-- rofi
-- vifm
-- vim
+<sub>The rights to the wallpapers do not belong to me, but only to their creators.</sub>
+ 
+#### .config
+
+| pkg |  |
+| - | - |
+| btop | monitor of resources |
+| cava | audio visualizer |
+| fastfetch | system information tool |
+| fish | shell - command line |
+| foot | lightweight wayland terminal |
+| kitty | fast GPU based terminal |
+| mpd | music player daemon |
+| mpv |  media player - command line  |
+| ncmpcpp | mpd client |
+| picom | X11 compositor |
+| rofi | application launcher  |
+| vifm | Vim-like file manager |
+| vim | code editor |
