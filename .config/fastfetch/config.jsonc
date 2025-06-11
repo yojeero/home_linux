@@ -1,0 +1,80 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+    "source": "~/.config/fastfetch/bash.png",
+	"type": "kitty",
+	"height": 12,        
+        "padding": {
+            "top": 2,            
+        }
+    },
+    "display": {
+        "separator": "  "
+    },
+    "modules": [
+        "break",        
+        "break",
+	{
+            "type": "title",
+            "keyWidth": 10
+        },
+        "break",       
+        {
+            "type": "os",
+            "key": "󰇅 distro",
+            "keyColor": "green"
+        },
+        {
+            "type": "kernel",
+            "key": " kernel",
+            "keyColor": "green"
+        }, 
+        {
+            "type": "packages",
+            "key": " packages",
+            "keyColor": "green"
+        },
+        {
+            "type": "shell",
+	    "format": "{1}",
+            "key": " shell",
+            "keyColor": "green"
+        },  
+        {
+            "type": "terminal",
+            "format": "{1}",
+            "key": " terminal",
+            "keyColor": "green"
+        },
+        {
+            "type": "wm",
+            "key": " wm",
+            "keyColor": "green"
+        },        
+        {
+            "type": "shell",
+            "key": "󰌢 shell",
+            "keyColor": "green"
+        },
+        {
+            "type": "lm",
+	        "format": "{1}",
+            "key": "󰿄 dm",
+            "keyColor": "green"
+        },
+        {
+            "type": "media",
+            "key": "󰝚 ",
+            "keyColor": "green", 
+        },
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[60m  \u001b[31m  \u001b[32m  \u001b[33m  \u001b[34m  \u001b[35m  \u001b[36m "
+        },
+        "break",
+        "break",
+    ]
+}
+
+
