@@ -1,15 +1,5 @@
 <img src="preview/git.png">
 
-<style scoped>
-table 
-{
-font-family: JetBrains Mono, sans-serif;
-font-weight: 400;
-# font-variant: small-caps;
-font-size: 14px;
-}
-</style>
-
 #### wallpapers
 
 | min size | max size |
