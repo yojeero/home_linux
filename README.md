@@ -25,3 +25,4 @@
 | rofi | application launcher  |
 | vifm | Vim-like file manager |
 | vim | code editor |
+| yazi | terminal file manager |
