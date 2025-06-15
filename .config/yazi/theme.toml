@@ -3,11 +3,5 @@
 
 
 [flavor]
-dark = "catppuccin-macchiato"
-
-#[flavor]
-#light = "catppuccin-latte"
-
-#[flavor]
-#use = "onedark"
+dark = "sunset"
 
