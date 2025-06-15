@@ -23,6 +23,9 @@
 | ncmpcpp | mpd client |
 | picom | X11 compositor |
 | rofi | application launcher  |
-| vifm | Vim-like file manager |
-| vim | code editor |
+| sketchybar |  macOS status bar |
+| skhd |  macOS hotkey daemon |
+| vim, neovim | code editor |
+| yabai | macOS tiling window manager |
 | yazi | terminal file manager |
+| wezterm | terminal |
