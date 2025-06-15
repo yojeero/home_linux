@@ -72,7 +72,8 @@
     },
     {
       "type": "display",
-      "key": " └ Display",
+      "format": "{1}",
+      "key": " ├ Display",
       "keyColor": "green"
     },
     {
@@ -84,12 +85,11 @@
     {
       "type": "gpu",
       "format": "{1}",
-      "key": " └ GPU",
+      "key": " ├ GPU",
       "keyColor": "green"
     },
     {
       "type": "memory",
-      "format": "{1}",
       "key": " └ Memory",
       "keyColor": "green"
     },
