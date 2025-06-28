@@ -1,4 +1,4 @@
-<img src="Wallpapers/skate.jpg" width="830">
+<img src="Wallpapers/snowy.jpg" width="830">
 
 #### wallpapers
 
