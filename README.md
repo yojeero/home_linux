@@ -1,4 +1,4 @@
-<img src="preview/git.png">
+<img src="Wallpapers/skate.jpg" width="830">
 
 #### wallpapers
 
@@ -23,9 +23,6 @@
 | ncmpcpp | mpd client |
 | picom | X11 compositor |
 | rofi | application launcher  |
-| sketchybar |  macOS status bar |
 | skhd |  macOS hotkey daemon |
 | vim, neovim | code editor |
-| yabai | macOS tiling window manager |
 | yazi | terminal file manager |
-| wezterm | terminal |
