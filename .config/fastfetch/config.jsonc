@@ -29,7 +29,7 @@
     "break",
     {
       "type": "os",
-      "key": " Distro",
+      "key": "  Distro",
       "keyColor": "green"
     },
     {
