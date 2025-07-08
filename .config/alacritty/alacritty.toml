@@ -62,6 +62,6 @@ lines=24
 
 [general]
 live_config_reload = true
-import = ["~/.config/alacritty/themes/catppuccin-frappe.toml"]
+import = ["~/.config/alacritty/themes/rose_pine_dawn.toml"]
 
 [terminal]
